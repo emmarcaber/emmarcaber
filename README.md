@@ -6,4 +6,4 @@
 
 ![Languages Used](https://raw.githubusercontent.com/Emracabe/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![Languages Used](https://raw.githubusercontent.com/Emracabe/github-stats/master/generated/languages.svg#gh-light-mode-only)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Emracabe&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Emracabe&theme=merko)
