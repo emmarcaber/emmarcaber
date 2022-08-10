@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on making android and desktop applications
 - 📫 You can reach me on my gmail, caberemmar@gmail.com
 
-![](https://raw.githubusercontent.com/Emracabe/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Emracabe/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![Languages Used](https://raw.githubusercontent.com/Emracabe/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Languages Used](https://raw.githubusercontent.com/Emracabe/github-stats/master/generated/languages.svg#gh-light-mode-only)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Emracabe&theme=radical)
