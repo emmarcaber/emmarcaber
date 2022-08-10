@@ -6,3 +6,4 @@
 
 ![](https://raw.githubusercontent.com/Emracabe/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Emracabe/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://github-readme-stats.vercel.app/api/pin/?username=Emracabe&repo=github-readme-stats)]
