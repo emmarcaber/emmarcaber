@@ -6,5 +6,5 @@
 
 ![Languages Used](https://raw.githubusercontent.com/Emracabe/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![Languages Used](https://raw.githubusercontent.com/Emracabe/github-stats/master/generated/languages.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![Overview](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Overview](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
