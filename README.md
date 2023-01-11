@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Emracabe
-- 👀 I’m interested in software engineering and full-stack development
-- 🌱 I’m currently learning Java, DSA, Javascript Frameworks, PHP and SQL
-- 💞️ I’m looking to collaborate on making android and desktop applications
+- 👀 I’m interested in developing web, desktop and android applications
+- 🌱 I’m currently learning Django Framework
+- 💞️ I’m looking to collaborate on making web applications, especially using Django PythonFramework
 - 📫 You can reach me on my gmail, caberemmar@gmail.com
 
 ![Languages Used](https://raw.githubusercontent.com/Emracabe/github-stats/master/generated/languages.svg#gh-dark-mode-only)
