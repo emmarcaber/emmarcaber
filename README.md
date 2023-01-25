@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Emracabe
+- 👋 Hi, I’m @emmarcaber
 - 👀 I’m interested in developing web, desktop and android applications
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on making web applications, especially using Django
