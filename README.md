@@ -7,7 +7,7 @@
 
 - 📫 You can reach me on my gmail, **caberemmar@gmail.com**
 
-- ⚡ Fun fact **I have keen attention to detail**
+- ⚡ **I have keen attention to detail**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
