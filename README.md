@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmar</h1>
-<h3 align="center">A tenacious and fastidious full-stack software engineer.</h3>
+<h3 align="center">A tenacious and fastidious full-stack software engineer</h3>
 
 - 🌱 I’m currently learning **Laravel**
 
