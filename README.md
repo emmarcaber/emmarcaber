@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **mobile, desktop development and web development**
+- 💬 Ask me about **mobile, desktop and web application development**
 
 - 📫 You can reach me on my gmail, **caberemmar@gmail.com**
 
