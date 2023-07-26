@@ -7,7 +7,7 @@
 
 - 📫 You can reach me on my gmail, **caberemmar@gmail.com**
 
-- ⚡ **I am extremely meticulous**
+- ⚡ **Let's code and learn together!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
