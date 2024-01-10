@@ -36,5 +36,3 @@
 ![Overview](https://raw.githubusercontent.com/Emracabe/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![Overview](https://raw.githubusercontent.com/Emracabe/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emmarcaber&theme=dark" alt="emmarcaber" /></p>
-
