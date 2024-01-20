@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emmar</h1>
 <h3 align="center">A tenacious and fastidious full-stack software engineer</h3>
 
-- 🌱 I’m currently creating **Web-Based Library Management System with Dactylogram Biometrics**
+- 🌱 I’m currently developing **Web-Based Library Management System with Dactylogram Biometrics**
 
-- 💬 Ask me about **software development**
+- 💬 I love to create desktop, mobile and web applications that will solve real-world problems
 
 - 📫 You can reach me on my gmail, **caberemmar@gmail.com**
 
