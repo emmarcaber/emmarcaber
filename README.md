@@ -7,7 +7,7 @@
 
 - 📫 You can reach me on my gmail, **caberemmar@gmail.com**
 
-- ⚡ **My main languages are Python, Javascript and Java**
+- ⚡ **My main languages are Python, Javascript, Java and PHP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
