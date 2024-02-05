@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emmar</h1>
 <h3 align="center">A tenacious and fastidious full-stack software engineer</h3>
 
-- 🌱 I’m currently developing **Web-Based Library Management System with Dactylogram Biometrics**
+- 🌱 I’m currently developing **DailyDocket**
 
 - 💬 I love to create desktop, mobile and web applications that will solve real-world problems
 
