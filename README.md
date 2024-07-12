@@ -7,7 +7,7 @@
 
 - 📫 You can reach me on my gmail, **caberemmar@gmail.com**
 
-- ⚡ I know **Python, Javascript, Java and PHP**
+- ⚡ I know **PHP, Javascript, Python, and Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
